@@ -1,0 +1,59 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Cache
+*.cache
+
+# Output directories
+dist/
+build/
+
+# Temporary files and directories
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Dependency directories
+jspm_packages/
+
+# Coverage reports
+coverage/
+
+# Test-related
+.nyc_output/
+cypress/videos/
+cypress/screenshots/
+
+# Generated files
+*.pid
+*.seed
+*.csv
+
+# Lint and formatting files
+.eslintcache
+
+# PM2 process file
+pm2-log.json
+
+# Miscellaneous
+*.bak
+*.swp
+*.orig
